@@ -1,8 +1,8 @@
 # Olá, eu sou [João Pedro]! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/joaopmarinho?label=Follow&style=social)](https://github.com/joaopmarinho)\
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)\
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)\
+[![GitHub followers](https://img.shields.io/github/followers/joaopmarinho?label=Follow&style=social)](https://github.com/joaopmarinho)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
 
 Desenvolvedor(a) [Front-end/Back-end/Full-Stack/Data Scientist/etc.] apaixonado(a) por [áreas de interesse]. Aqui você encontrará meus projetos, contribuições e aprendizados.\
 
