@@ -36,7 +36,7 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 
 - Achievements
   - [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  - ![Troféus](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=darkhub)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=onedark)](https://github.com/joaopmarinho/github-profile-trophy)
 
 - Certificações relevantes
   - Toefl IBT - C1 level
