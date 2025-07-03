@@ -54,6 +54,7 @@ Além de programação, gosto de:
 
 ## 📫 Como me Encontrar
 
+- Linkedin: [Pedro Maranhão]((https://www.linkedin.com/in/pedro-maranh%C3%A3o-35988a240/))
 - E-mail: jpammarinho@gmail.com
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
