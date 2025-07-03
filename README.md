@@ -28,7 +28,7 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 
 ## 📊 Estatísticas do GitHub
 
-![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark)
+[![Seus status no GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)](https://github.com/seu-usuario)
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmarinho&layout=compact&theme=dracula)](https://github.com/joaopmarinho)\
 
