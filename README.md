@@ -39,8 +39,6 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
   - Toefl IBT - C1 level
 - Participação em hackathons ou eventos
   - Hackaton da Visagio
-- Métricas
-
 
 ## 🌱 Atualmente Aprendendo
 
