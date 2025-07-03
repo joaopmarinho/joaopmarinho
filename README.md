@@ -9,15 +9,16 @@ Desenvolvedor(a) [Front-end/Back-end/Full-Stack/Data Scientist/etc.] apaixonado(
 ## 🛠️ Tecnologias & Habilidades
 
 ### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoCor=white) - Minha escolha para desenvolvimento front-end robusto
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - Para estudos em ciências de dados no geral e desenvolvimento backend
 
 ### Front-end
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) Framework front-end que mais utilizo
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white) Para programação reativa em Angular
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) Framework que utilizo para projetos da faculdade
 
 ### Back-end
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -38,28 +39,29 @@ Desenvolvedor(a) [Front-end/Back-end/Full-Stack/Data Scientist/etc.] apaixonado(
 
 ## 🏆 Conquistas
 
-- GitHub Achievements (ex: Arctic Code Vault Contributor)
+- GitHub Achievements
+- - 
 - Certificações relevantes
+- - Toefl IBT - C1 level
 - Participação em hackathons ou eventos
+- -  Hackaton da Visagio
 - Contribuições para projetos open-source
+- 
 
 ## 🌱 Atualmente Aprendendo
 
-- [Tecnologia/Framework que está aprendendo]
+- [ReactNative]
 - [Outra habilidade em desenvolvimento]
 
 ## 💬 Sobre Mim
 
 Além de programação, gosto de:
-- 🎵 Música
-- 📚 Leitura
-- ✈️ Viagens
-- [Outros hobbies/interesses]
+- 🎵 Música/DJing => [Perfil no SoundCloud](https://soundcloud.com/jo-o-pedro-887)
 
 ## 📫 Como me Encontrar
 
 - LinkedIn: [Pedro Maranhão](https://www.linkedin.com/in/pedro-maranh%C3%A3o-35988a240/)
-- E-mail: jpammarinho@exemplo.com
+- E-mail: jpammarinho@gmail.com
 <!-- Site pessoal: [https://seu-site.com](https://seu-site.com) -->
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
