@@ -58,8 +58,8 @@ Além de programação, gosto de:
 
 ## 📫 Como me Encontrar
 
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedro-maranh%C3%A3o-35988a240/)
-- E-mail: seu-email@exemplo.com
+- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/pedro-maranh%C3%A3o-35988a240/)
+- E-mail: jpammarinho@exemplo.com
 - Site pessoal: [https://seu-site.com](https://seu-site.com)
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
