@@ -1,8 +1,8 @@
 # Olá, eu sou João Pedro! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/joaopmarinho?label=Follow&style=social)](https://github.com/joaopmarinho)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-maranh%C3%A3o-35988a240/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpammarinho@gmail.com)
 
 Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar e organizar arquiteturas de sistemas, além de manusear dados para aplicações reais envolvendo processos de machine learning e ciência de dados. Aqui você encontrará meus projetos, contribuições e aprendizados.
 
@@ -54,7 +54,6 @@ Além de programação, gosto de:
 
 ## 📫 Como me Encontrar
 
-- LinkedIn: [Pedro Maranhão](https://www.linkedin.com/in/pedro-maranh%C3%A3o-35988a240/)
 - E-mail: jpammarinho@gmail.com
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
