@@ -33,7 +33,7 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmarinho&layout=compact&theme=dracula)](https://github.com/joaopmarinho)\
 
 ## 🏆 Conquistas
-- Troféus
+- Troféus  
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/joaopmarinho/github-profile-trophy)   
 - Certificações relevantes
   - Toefl IBT - C1 level
