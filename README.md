@@ -30,6 +30,8 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=joaopmarinho&show_icons=true&theme=dark&count_private=true)
 
+[![Contribuições no Ano](https://github-readme-activity-graph.vercel.app/graph?username=joaopmarinho&theme=github-compact)](https://github.com/joaopmarinho)
+
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmarinho&layout=compact&theme=dracula)](https://github.com/joaopmarinho)\
 
 ## 🏆 Conquistas
