@@ -42,8 +42,8 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 
 ## 🌱 Atualmente Aprendendo
 
-- [ReactNative]
-- [Outra habilidade em desenvolvimento]
+- Reactive Native
+- Mineração de dados e Machine learning
 
 ## 💬 Sobre Mim
 
