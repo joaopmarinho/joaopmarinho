@@ -1,16 +1,16 @@
-# Olá, eu sou [João Pedro]! 👋
+# Olá, eu sou João Pedro! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/joaopmarinho?label=Follow&style=social)](https://github.com/joaopmarinho)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
 
-Desenvolvedor(a) [Front-end/Back-end/Full-Stack/Data Scientist/etc.] apaixonado(a) por [áreas de interesse]. Aqui você encontrará meus projetos, contribuições e aprendizados.\
+Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar e organizar arquiteturas de sistemas, além de manusear dados para aplicações reais envolvendo processos de machine learning e ciência de dados. Aqui você encontrará meus projetos, contribuições e aprendizados.
 
 ## 🛠️ Tecnologias & Habilidades
 
 ### Linguagens de Programação
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoCor=white) - Minha escolha para desenvolvimento front-end robusto\
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - Para estudos em ciências de dados no geral e desenvolvimento backend\
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoCor=white) - Minha escolha para desenvolvimento front-end robusto
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - Para estudos em ciências de dados no geral e desenvolvimento backend
 
 ### Front-end
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) Framework front-end que mais utilizo\
