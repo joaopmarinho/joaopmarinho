@@ -39,12 +39,11 @@ Desenvolvedor(a) [Front-end/Back-end/Full-Stack/Data Scientist/etc.] apaixonado(
 
 ## 🏆 Conquistas
 
-- GitHub Achievements
-- - 
+- GitHub Achievements 
 - Certificações relevantes
-- - Toefl IBT - C1 level
+-- Toefl IBT - C1 level
 - Participação em hackathons ou eventos
-- -  Hackaton da Visagio
+--  Hackaton da Visagio
 - Contribuições para projetos open-source
 - 
 
