@@ -35,7 +35,9 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 ## 🏆 Conquistas
 
 - Achievements
-  - [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  - Troféus
+    - [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/joaopmarinho/github-profile-trophy)   
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=onedark)](https://github.com/joaopmarinho/github-profile-trophy)
 
 - Certificações relevantes
