@@ -33,12 +33,13 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmarinho&layout=compact&theme=dracula)](https://github.com/joaopmarinho)\
 
 ## 🏆 Conquistas
+- Github Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopmarinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues)](https://github.com/joaopmarinho/github-readme-stats)
 
-- Achievements
-  - Troféus
-    - [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/joaopmarinho/github-profile-trophy)   
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=onedark)](https://github.com/joaopmarinho/github-profile-trophy)
+- Troféus
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/joaopmarinho/github-profile-trophy)   
+- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=onedark)](https://github.com/joaopmarinho/github-profile-trophy)
 
 - Certificações relevantes
   - Toefl IBT - C1 level
