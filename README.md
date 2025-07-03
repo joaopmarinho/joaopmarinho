@@ -30,12 +30,9 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=joaopmarinho&show_icons=true&theme=dark&count_private=true)
 
-
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmarinho&layout=compact&theme=dracula)](https://github.com/joaopmarinho)\
 
 ## 🏆 Conquistas
--Badges
-[![Contribuições no Ano](https://img.shields.io/badge/dynamic/json?label=Contribuições%20no%20Ano&query=total_contributions&url=https://github-contributions-api.deno.dev/joaopmarinho.json)](https://github.com/joaopmarinho)
 - Troféus  
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/joaopmarinho/github-profile-trophy)   
 - Certificações relevantes
