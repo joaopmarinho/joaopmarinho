@@ -40,7 +40,6 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 - Participação em hackathons ou eventos
   - Hackaton da Visagio
 - Métricas
-![Metrics](https://github.com/joaopmarinho/joaopmarinho/blob/main/github-metrics.svg)
 
 
 ## 🌱 Atualmente Aprendendo
