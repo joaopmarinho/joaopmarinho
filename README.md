@@ -28,13 +28,15 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 
 ## 📊 Estatísticas do GitHub
 
-[![Seus status no GitHub](https://github-readme-stats.vercel.app/api?username=joaopmarinho&show_icons=true&theme=dracula)](https://github.com/joaopmarinho)\
+![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark)
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmarinho&layout=compact&theme=dracula)](https://github.com/joaopmarinho)\
 
 ## 🏆 Conquistas
 
-- GitHub Achievements 
+- GitHub Achievements
+  - ![Troféus](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=darkhub)
+
 - Certificações relevantes
   - Toefl IBT - C1 level
 - Participação em hackathons ou eventos
