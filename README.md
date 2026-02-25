@@ -33,26 +33,11 @@ Desenvolvedor FullStack e pesquisador de Ciência de Dados apaixonado por criar 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopmarinho&layout=compact&theme=dracula)](https://github.com/joaopmarinho)\
 
 ## 🏆 Conquistas
-- Troféus  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaopmarinho&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/joaopmarinho/github-profile-trophy)   
+- Formação acadêmica
+  - Engenharia da computação na Universidade Federal de Pernambuco (UFPE)
 - Certificações relevantes
   - Toefl IBT - C1 level
 - Participação em hackathons ou eventos
   - Hackaton da Visagio
-
-## 🌱 Atualmente Aprendendo
-
-- Reactive Native
-- Mineração de dados e Machine learning
-
-## 💬 Sobre Mim
-
-Além de programação, gosto de:
-- 🎵 Música/DJing => [Perfil no SoundCloud](https://soundcloud.com/jo-o-pedro-887)
-
-## 📫 Como me Encontrar
-
-- Linkedin: [Pedro Maranhão]((https://www.linkedin.com/in/pedro-maranh%C3%A3o-35988a240/))
-- E-mail: jpammarinho@gmail.com
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
